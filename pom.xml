@@ -4,7 +4,7 @@
   <groupId>com.javatpoint</groupId>
   <artifactId>CubeGeneratorWeb</artifactId>
   <packaging>war</packaging>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.1</version>
   <name>CubeGeneratorWeb Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
