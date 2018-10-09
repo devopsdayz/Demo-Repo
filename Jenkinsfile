@@ -1,8 +1,8 @@
 node {
    def mvnHome
-   stage('Preparation') { // for display purposes
+   stage('Checkout') { // for display purposes
       // Get some code from a GitHub repository
-      git 'https://github.com/Maddu/Training.git'
+      git 'https://github.com/thedevopsdays/Demo-Repo.git'
       // Get the Maven tool.
       // ** NOTE: This 'M3' Maven tool must be configured
       // **       in the global configuration.           
